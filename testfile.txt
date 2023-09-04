@@ -7,3 +7,5 @@ change 1 in hf
 change 1 in iss53
 
 ch 1 in main remote
+
+ch 2 in main in remote
