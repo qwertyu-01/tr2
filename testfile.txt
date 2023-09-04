@@ -7,3 +7,7 @@ change 1 in hf
 change 1 in iss53
 
 change 2 in main in local
+
+ch 1 in main remote
+
+ch 2 in main in remote
