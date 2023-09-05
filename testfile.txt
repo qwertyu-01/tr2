@@ -13,3 +13,5 @@ ch 1 in main remote
 ch 2 in main in remote
 
 ch 3-main-local
+
+ch 5 main local
