@@ -19,3 +19,5 @@ ch 2 in main in remote
 ch 3-exp-local
 
 ch 3-main-local
+
+4 exp2 local
